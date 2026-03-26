@@ -1,0 +1,2 @@
+This extension provides the `formula-reverse-engineering` skill. 
+It equips Gemini CLI with a rigorous, professional methodology for analyzing multi-dimensional datasets to discover elegant, physics-based underlying mathematical formulas, avoiding blind polynomial overfitting.

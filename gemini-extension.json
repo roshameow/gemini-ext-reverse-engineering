@@ -1,0 +1,6 @@
+{
+  "name": "gemini-ext-reverse-engineering",
+  "version": "1.0.0",
+  "description": "A specialized Gemini CLI extension that provides an expert, 7-step iterative methodology for reverse-engineering complex mathematical formulas and physics-based scoring models from black-box data.",
+  "contextFileName": "GEMINI.md"
+}
