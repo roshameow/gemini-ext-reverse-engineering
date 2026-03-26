@@ -17,7 +17,7 @@ Instead of letting AI blindly overfit data with random polynomials or neural net
 Install directly via Gemini CLI:
 
 ```bash
-gemini ext install https://github.com/YOUR_USERNAME/gemini-ext-reverse-engineering
+gemini ext install https://github.com/roshameow/gemini-ext-reverse-engineering
 ```
 
 Then reload your skills in interactive mode:
